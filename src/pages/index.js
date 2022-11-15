@@ -3,7 +3,7 @@ import React from 'react'
 
 const IndexPage = () => (
   <div>
-    <h1>Hi people</h1>
+    <h1>Hi people of the Internet</h1>
    
 		Github : <a href="http://www.github.com/aparij">aparij</a>
     <br/>
