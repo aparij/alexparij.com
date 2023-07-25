@@ -7,7 +7,7 @@ const IndexPage = () => (
    
 		Github : <a href="http://www.github.com/aparij">aparij</a>
     <br/>
-    Twitter : <a href="http://www.twitter.com/alex_parij">@alex_parij</a>
+    Mastodon : <a href="https://mastodon.social/@parija">@parija</a>
     <br/>
  
   </div>
